@@ -1,4 +1,4 @@
-# JohnDoe
+# CHINMAYBAKSHI
 A Responsive Free One Page Portfolio Website template
 
 
